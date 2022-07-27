@@ -1,0 +1,42 @@
+2022-07-25 21:07:353 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-07-25 21:07:831 INFO  CalculateHolidayEntitlementPage :69 - Clicking on Accept Cookies : [[ChromeDriver: chrome on WINDOWS (f5698ed350c53f6381bb6d46330b9951)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2022-07-25 21:07:127 INFO  CalculateHolidayEntitlementPage :74 - Clicking on Start Button : [[ChromeDriver: chrome on WINDOWS (f5698ed350c53f6381bb6d46330b9951)] -> xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]]
+2022-07-25 21:07:399 INFO  CalculateHolidayEntitlementPage :80 - Clicking on Days Worked Per Week : [[ChromeDriver: chrome on WINDOWS (f5698ed350c53f6381bb6d46330b9951)] -> xpath: //input[@id='response-0']]
+2022-07-25 21:07:623 INFO  CalculateHolidayEntitlementPage :86 - Clicking on Full Leave Year : [[ChromeDriver: chrome on WINDOWS (f5698ed350c53f6381bb6d46330b9951)] -> xpath: //input[@id='response-0']]
+2022-07-25 21:07:21 INFO  CalculateHolidayEntitlementPage :92 - Clicking on Enter Days Worked Per Week : [[ChromeDriver: chrome on WINDOWS (f5698ed350c53f6381bb6d46330b9951)] -> xpath: //input[@id='response']]
+2022-07-25 21:07:798 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-07-25 21:07:425 INFO  CalculateHolidayEntitlementPage :69 - Clicking on Accept Cookies : [[ChromeDriver: chrome on WINDOWS (8950f56317b0eb0f7b6654f3d5438f21)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2022-07-25 21:07:605 INFO  CalculateHolidayEntitlementPage :74 - Clicking on Start Button : [[ChromeDriver: chrome on WINDOWS (8950f56317b0eb0f7b6654f3d5438f21)] -> xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]]
+2022-07-25 21:07:821 INFO  CalculateHolidayEntitlementPage :80 - Clicking on Days Worked Per Week : [[ChromeDriver: chrome on WINDOWS (8950f56317b0eb0f7b6654f3d5438f21)] -> xpath: //input[@id='response-0']]
+2022-07-25 21:07:23 INFO  CalculateHolidayEntitlementPage :86 - Clicking on Full Leave Year : [[ChromeDriver: chrome on WINDOWS (8950f56317b0eb0f7b6654f3d5438f21)] -> xpath: //input[@id='response-0']]
+2022-07-25 21:07:284 INFO  CalculateHolidayEntitlementPage :92 - Clicking on Enter Days Worked Per Week : [[ChromeDriver: chrome on WINDOWS (8950f56317b0eb0f7b6654f3d5438f21)] -> xpath: //input[@id='response']]
+2022-07-25 21:07:330 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-07-25 21:07:833 INFO  CalculateHolidayEntitlementPage :69 - Clicking on Accept Cookies : [[ChromeDriver: chrome on WINDOWS (977b2b2717a25c7494375d20ce891c41)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2022-07-25 21:07:986 INFO  CalculateHolidayEntitlementPage :74 - Clicking on Start Button : [[ChromeDriver: chrome on WINDOWS (977b2b2717a25c7494375d20ce891c41)] -> xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]]
+2022-07-25 21:07:155 INFO  CalculateHolidayEntitlementPage :80 - Clicking on Days Worked Per Week : [[ChromeDriver: chrome on WINDOWS (977b2b2717a25c7494375d20ce891c41)] -> xpath: //input[@id='response-0']]
+2022-07-25 21:07:318 INFO  CalculateHolidayEntitlementPage :86 - Clicking on Full Leave Year : [[ChromeDriver: chrome on WINDOWS (977b2b2717a25c7494375d20ce891c41)] -> xpath: //input[@id='response-0']]
+2022-07-25 21:07:525 INFO  CalculateHolidayEntitlementPage :92 - Clicking on Enter Days Worked Per Week : [[ChromeDriver: chrome on WINDOWS (977b2b2717a25c7494375d20ce891c41)] -> xpath: //input[@id='response']]
+2022-07-25 21:07:820 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-07-25 21:07:561 INFO  CalculateHolidayEntitlementPage :69 - Clicking on Accept Cookies : [[ChromeDriver: chrome on WINDOWS (c659c770b48726208083ec056abcf8cf)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2022-07-25 21:07:700 INFO  CalculateHolidayEntitlementPage :74 - Clicking on Start Button : [[ChromeDriver: chrome on WINDOWS (c659c770b48726208083ec056abcf8cf)] -> xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]]
+2022-07-25 21:07:876 INFO  CalculateHolidayEntitlementPage :80 - Clicking on Days Worked Per Week : [[ChromeDriver: chrome on WINDOWS (c659c770b48726208083ec056abcf8cf)] -> xpath: //input[@id='response-0']]
+2022-07-25 21:07:47 INFO  CalculateHolidayEntitlementPage :86 - Clicking on Full Leave Year : [[ChromeDriver: chrome on WINDOWS (c659c770b48726208083ec056abcf8cf)] -> xpath: //input[@id='response-0']]
+2022-07-25 21:07:250 INFO  CalculateHolidayEntitlementPage :92 - Clicking on Enter Days Worked Per Week : [[ChromeDriver: chrome on WINDOWS (c659c770b48726208083ec056abcf8cf)] -> xpath: //input[@id='response']]
+2022-07-25 21:07:665 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-07-25 21:07:815 INFO  CalculateHolidayEntitlementPage :74 - Clicking on Accept Cookies : [[ChromeDriver: chrome on WINDOWS (7b6733efc81b78271dab44dcdd56c22b)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2022-07-25 21:07:959 INFO  CalculateHolidayEntitlementPage :79 - Clicking on Start Button : [[ChromeDriver: chrome on WINDOWS (7b6733efc81b78271dab44dcdd56c22b)] -> xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]]
+2022-07-25 21:07:176 INFO  CalculateHolidayEntitlementPage :104 - Clicking on Hours Worked  : [[ChromeDriver: chrome on WINDOWS (7b6733efc81b78271dab44dcdd56c22b)] -> xpath: //input[@id='response-1']]
+2022-07-25 21:07:354 INFO  CalculateHolidayEntitlementPage :110 - Clicking on Full Leave Year : [[ChromeDriver: chrome on WINDOWS (7b6733efc81b78271dab44dcdd56c22b)] -> xpath: //input[@id='response-0']]
+2022-07-25 21:07:636 INFO  CalculateHolidayEntitlementPage :116 - Clicking on Hours Worked Per Week  : [[ChromeDriver: chrome on WINDOWS (7b6733efc81b78271dab44dcdd56c22b)] -> xpath: //input[@id='response']]
+2022-07-25 21:07:424 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-07-25 21:07:968 INFO  CalculateHolidayEntitlementPage :74 - Clicking on Accept Cookies : [[ChromeDriver: chrome on WINDOWS (3dea56364784e2e0f8f09223547bdf8a)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2022-07-25 21:07:132 INFO  CalculateHolidayEntitlementPage :79 - Clicking on Start Button : [[ChromeDriver: chrome on WINDOWS (3dea56364784e2e0f8f09223547bdf8a)] -> xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]]
+2022-07-25 21:07:326 INFO  CalculateHolidayEntitlementPage :85 - Clicking on Days Worked Per Week : [[ChromeDriver: chrome on WINDOWS (3dea56364784e2e0f8f09223547bdf8a)] -> xpath: //input[@id='response-0']]
+2022-07-25 21:07:503 INFO  CalculateHolidayEntitlementPage :91 - Clicking on Full Leave Year : [[ChromeDriver: chrome on WINDOWS (3dea56364784e2e0f8f09223547bdf8a)] -> xpath: //input[@id='response-0']]
+2022-07-25 21:07:800 INFO  CalculateHolidayEntitlementPage :97 - Clicking on Enter Days Worked Per Week : [[ChromeDriver: chrome on WINDOWS (3dea56364784e2e0f8f09223547bdf8a)] -> xpath: //input[@id='response']]
+2022-07-25 21:07:408 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-07-25 21:07:943 INFO  CalculateHolidayEntitlementPage :74 - Clicking on Accept Cookies : [[ChromeDriver: chrome on WINDOWS (3a45246819aea2242e62ce83c084e578)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2022-07-25 21:07:105 INFO  CalculateHolidayEntitlementPage :79 - Clicking on Start Button : [[ChromeDriver: chrome on WINDOWS (3a45246819aea2242e62ce83c084e578)] -> xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]]
+2022-07-25 21:07:327 INFO  CalculateHolidayEntitlementPage :104 - Clicking on Hours Worked  : [[ChromeDriver: chrome on WINDOWS (3a45246819aea2242e62ce83c084e578)] -> xpath: //input[@id='response-1']]
+2022-07-25 21:07:516 INFO  CalculateHolidayEntitlementPage :110 - Clicking on Full Leave Year : [[ChromeDriver: chrome on WINDOWS (3a45246819aea2242e62ce83c084e578)] -> xpath: //input[@id='response-0']]
+2022-07-25 21:07:697 INFO  CalculateHolidayEntitlementPage :116 - Clicking on Hours Worked Per Week  : [[ChromeDriver: chrome on WINDOWS (3a45246819aea2242e62ce83c084e578)] -> xpath: //input[@id='response']]

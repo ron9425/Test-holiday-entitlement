@@ -1,0 +1,244 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2858654600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "User should calculate holiday entitlement per days worked per week",
+        "description": "",
+        "id": "as-user-i-want-to-check-the-functionality-of-the-site;user-should-calculate-holiday-entitlement-per-days-worked-per-week",
+        "after": [
+          {
+            "result": {
+              "duration": 588787500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 91459200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am on homepage",
+            "match": {
+              "location": "MyStepdefs.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 69828800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click on Accept Cookies",
+            "match": {
+              "location": "MyStepdefs.iClickOnAcceptCookies()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 162102300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click on StartButton",
+            "match": {
+              "location": "MyStepdefs.iClickOnStartButton()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 192699700,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click on Days Worked Per Week and click continue",
+            "match": {
+              "location": "MyStepdefs.iClickOnDaysWorkedPerWeekAndClickContinue()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 175527000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click on Full Leave Year and click continue",
+            "match": {
+              "location": "MyStepdefs.iClickOnFullLeaveYearAndClickContinue()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 295784300,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I Enter Days Worked Per Week and click continue",
+            "match": {
+              "location": "MyStepdefs.iEnterDaysWorkedPerWeekAndClickContinue()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 19400,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "The user should see the entitlement holidays",
+            "match": {
+              "location": "MyStepdefs.theUserShouldSeeTheEntitlementHolidays()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1497417500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 14,
+        "name": "User should calculate holiday entitlement per hours worked per week",
+        "description": "",
+        "id": "as-user-i-want-to-check-the-functionality-of-the-site;user-should-calculate-holiday-entitlement-per-hours-worked-per-week",
+        "after": [
+          {
+            "result": {
+              "duration": 579197300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 18900,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I am on homepage",
+            "match": {
+              "location": "MyStepdefs.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 50195100,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I click on Accept Cookies",
+            "match": {
+              "location": "MyStepdefs.iClickOnAcceptCookies()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 161755200,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "I click on StartButton",
+            "match": {
+              "location": "MyStepdefs.iClickOnStartButton()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 220341900,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "I click on Hours Worked Per Week and click continue",
+            "match": {
+              "location": "MyStepdefs.iClickOnHoursWorkedPerWeekAndClickContinue()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 188456700,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "I click on Leave For Year and click continue",
+            "match": {
+              "location": "MyStepdefs.iClickOnLeaveForYearAndClickContinue()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 179847200,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "I Enter Hours Worked Per Week and click continue",
+            "match": {
+              "location": "MyStepdefs.iEnterHoursWorkedPerWeekAndClickContinue()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 10800,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "The user should see the entitlement holidays",
+            "match": {
+              "location": "MyStepdefs.theUserShouldSeeTheEntitlementHolidays()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "As user I want to Check the Functionality of the site",
+    "description": "",
+    "id": "as-user-i-want-to-check-the-functionality-of-the-site",
+    "keyword": "Feature",
+    "uri": "HolidayEntitlement.feature"
+  }
+]
